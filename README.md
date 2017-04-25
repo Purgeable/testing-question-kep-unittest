@@ -1,5 +1,4 @@
-# question-kep-unittest
-Better inittesting: tests from data-rosstat-kep for review 
+# Sample unittests for review 
 
 [![Build Status](https://travis-ci.org/epogrebnyak/question-kep-unittest.svg?branch=master)](https://travis-ci.org/epogrebnyak/question-kep-unittest)
 
