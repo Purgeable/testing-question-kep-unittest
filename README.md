@@ -3,11 +3,11 @@ Better inittesting: tests from data-rosstat-kep for review
 
 [![Build Status](https://travis-ci.org/epogrebnyak/question-kep-unittest.svg?branch=master)](https://travis-ci.org/epogrebnyak/question-kep-unittest)
 
-There are two sample unittests in this repository:
+My intention is to refine unittests in this repository based on best practice and common sense:
 - [test_csv_data.py](test_csv_data.py)
 - [test_parsing_definitions.py](test_csv_data.py)
 
-My intention is to refine these tests based on best practice and common sense. 
+Please feel free to open new issues for comments.
 
 Inspired and puzzled by:
  - [Pylons unit testing guidelines.html](http://pylonsproject.org/community-unit-testing-guidelines.html)
