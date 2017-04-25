@@ -6,7 +6,7 @@ My intention is to refine unittests in this repository based on best practice an
 - [test_csv_data.py](test_csv_data.py)
 - [test_parsing_definitions.py](test_csv_data.py)
 
-Please feel free to open new issues for comments.
+Feel free to open new issues for comments.
 
 Inspired and puzzled by:
  - [Pylons unit testing guidelines](http://pylonsproject.org/community-unit-testing-guidelines.html)
