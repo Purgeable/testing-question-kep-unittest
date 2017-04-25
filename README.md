@@ -10,7 +10,7 @@ My intention is to refine unittests in this repository based on best practice an
 Please feel free to open new issues for comments.
 
 Inspired and puzzled by:
- - [Pylons unit testing guidelines.html](http://pylonsproject.org/community-unit-testing-guidelines.html)
- - [Testing @ "Best of the Best Practices" (BOBP) guide to developing in Python](https://gist.github.com/sloria/7001839#testing)
+ - [Pylons unit testing guidelines](http://pylonsproject.org/community-unit-testing-guidelines.html)
+ - [Testing @ Python "Best of the Best Practices" (BOBP) guide](https://gist.github.com/sloria/7001839#testing)
  - [Python development practices](https://dmugtasimov-tech.blogspot.ru/2016/12/my-python-software-development-practices.html) by Dmitry Mugtasimov
  
