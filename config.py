@@ -41,16 +41,6 @@ class TestPaths(unittest.TestCase):
     def test_default_dir(self):
         _dir = get_default_spec_folder()
         assert get_main_spec_filepath(_dir) == 'parsing_definitions\\__spec.txt'
-        assert get_additional_specs_filepaths(_dir) == ['parsing_definitions\\__spec_budget_expense.txt',
- 'parsing_definitions\\__spec_budget_revenue.txt',
- 'parsing_definitions\\__spec_budget_surplus.txt',
- 'parsing_definitions\\__spec_cpi.txt',
- 'parsing_definitions\\__spec_foreign_trade.txt',
- 'parsing_definitions\\__spec_invest_src.txt',
- 'parsing_definitions\\__spec_overdue.txt',
- 'parsing_definitions\\__spec_profit.txt',
- 'parsing_definitions\\__spec_receivable.txt',
- 'parsing_definitions\\__spec_retail.txt']
-    
+        
 if __name__ == '__main__':
     unittest.main()    
