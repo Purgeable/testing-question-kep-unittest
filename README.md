@@ -1,4 +1,4 @@
-# Sample unittests for review 
+# Some unittests for code review 
 
 [![Build Status](https://travis-ci.org/epogrebnyak/question-kep-unittest.svg?branch=master)](https://travis-ci.org/epogrebnyak/question-kep-unittest)
 
@@ -13,3 +13,4 @@ Inspired and puzzled by:
  - [Testing @ Python "Best of the Best Practices" (BOBP) guide](https://gist.github.com/sloria/7001839#testing)
  - [Python development practices](https://dmugtasimov-tech.blogspot.ru/2016/12/my-python-software-development-practices.html) by Dmitry Mugtasimov
  
+The code code is originally part of [data-rosstat-kep](https://github.com/epogrebnyak/data-rosstat-kep).
