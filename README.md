@@ -4,7 +4,7 @@
 
 My intention is to refine unittests in this repository based on best practice and common sense:
 - [test_csv_data.py](test_csv_data.py)
-- [test_parsing_definitions.py](test_csv_data.py)
+- [test_parsing_definitions.py](test_parsing_definitions.py)
 
 Feel free to open new issues for comments.
 
